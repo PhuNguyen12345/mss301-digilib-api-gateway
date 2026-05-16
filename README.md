@@ -27,5 +27,5 @@
 ### Các bước thực hiện
 1. **Clone repository về máy:**
    ```bash
-   git clone <URL_REPO_CỦA_BẠN>/mss301-digilib-api-gateway.git
+   git clone https://github.com/PhuNguyen12345/mss301-digilib-api-gateway.git
    cd mss301-digilib-api-gateway
